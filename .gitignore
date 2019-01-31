@@ -1,0 +1,7 @@
+__pycache__/*
+tensorboard/*
+train/run_*/checkpoints/*
+train/run_*/summaries/*
+summary.txt
+documents/*
+dataset/*

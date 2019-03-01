@@ -1,10 +1,10 @@
-# MRBrainS18 MISPL challenge winning code
+# MRBrainS18 challenge winning submission
 
-Winning submission to the Grand Challenge on MR Brain Segmentation at MICCAI 2018.
+Winning submission of the Grand Challenge on MR Brain Segmentation at MICCAI 2018 by team MISPL ([Medical Image and Signal Processing Lab](https://mispl.dgist.ac.kr/) @ [DGIST](https://www.dgist.ac.kr/en/)).
 
 * [Check the challenge results](http://mrbrains18.isi.uu.nl/results/eight-label-segmentation-results/)
 * [Download pretrained weights](https://drive.google.com/file/d/1MU6XEU5OE4Z2UgjCbxPoSdES0i2JZvUr/view?usp=sharing)
-* Check our paper [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation](https://www.springer.com/gp/book/9783030117221)
+* Check our article: [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)
 
 
 ## Usage
@@ -52,3 +52,20 @@ bash get_summaries.sh
 ```bash
 cat summary.txt
 ```
+
+
+## Citation
+
+If you find the code useful for your research, please consider citing our article:
+
+*   MISPL_MRBrainS18:
+
+```
+@inproceedings{mispl_mrbrains18,
+  title={3D Patchwise U-Net with Transition Layers for MR Brain Segmentation},
+  author={Miguel Luna and Sang Hyun Park,
+  booktitle={Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries},
+  year={2019}
+}
+```
+

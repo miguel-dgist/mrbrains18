@@ -4,7 +4,7 @@ Winning submission of the Grand Challenge on MR Brain Segmentation at MICCAI 201
 
 * [Check the challenge results](http://mrbrains18.isi.uu.nl/results/eight-label-segmentation-results/)
 * [Download pretrained weights](https://drive.google.com/file/d/1MU6XEU5OE4Z2UgjCbxPoSdES0i2JZvUr/view?usp=sharing)
-* Check our article: [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)
+* Check our article: [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-11723-8_40)
 
 
 ## Usage

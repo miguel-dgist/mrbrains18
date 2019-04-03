@@ -58,14 +58,16 @@ cat summary.txt
 
 If you find the code useful for your research, please consider citing our article:
 
-*   MISPL_MRBrainS18:
+* MISPL_MRBrainS18:
 
 ```
 @inproceedings{mispl_mrbrains18,
+  author={Luna, Miguel and Park, Sang Hyun},
   title={3D Patchwise U-Net with Transition Layers for MR Brain Segmentation},
-  author={Miguel Luna and Sang Hyun Park,
   booktitle={Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries},
-  year={2019}
+  year={2019},
+  pages={394-403}
 }
 ```
 
+* DOI: https://doi.org/10.1007/978-3-030-11723-8_40
